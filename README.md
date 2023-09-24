@@ -31,6 +31,7 @@ https://github.com/daniyar-s/Stewart_Platform_as_Astronomical_Telescope/assets/1
 The project was created with Rasul Yermagambet, Ruslan Zhagypar under supervision of Christos Spitas.
 
 Resources used:
+
 1.https://www.mathworks.com/help/sm/ug/stewart-platform-with-controller.html
 2.https://www.mathworks.com/matlabcentral/fileexchange/73760-line-plane-intersection-3d
 
