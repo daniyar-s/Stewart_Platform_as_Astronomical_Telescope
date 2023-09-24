@@ -1,0 +1,12 @@
+Constrained Instances: 'Matlab_Slewing_bearing_assembly-1', 'New_New_Aligned_System_Assembly'
+Constraint Name: Coincident4
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Pinion_gear-1', 'Matlab_Slewing_bearing_assembly-1/Changed_Ring-2-1'
+Constraint Name: GearMate1
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Changed_Ring-1-1', 'Matlab_Slewing_bearing_assembly'
+Constraint Name: Coincident1
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------

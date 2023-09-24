@@ -1,0 +1,1960 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="08/05/21||15:22:34" using="Simscape Multibody Link Version 7.2" from="SolidWorks 29.3.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="New_New_Aligned_System_Assembly" uid="New_New_Aligned_System_Assembly" version="3341">
+<AssemblyFile name="New_New_Aligned_System_Assembly.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="New_Mounting_Bracket-2" uid="New_Mounting_Bracket-2" entityUid="New_Mounting_Bracket*:*Default">
+<Transform>
+<Rotation>0.15140802564118119 0.98847135000031205 0 7.7865903586214677e-16 0 -1 -0.98847135000031205 0.15140802564118119 -7.8427011244437219e-16</Rotation>
+<Translation>-0.66762762661975406 0.082999999999999768 -0.058840589756780151</Translation>
+</Transform>
+</Instance>
+<Instance name="New_Mounting_Bracket-4" uid="New_Mounting_Bracket-4" entityUid="New_Mounting_Bracket*:*Default">
+<Transform>
+<Rotation>-0.83624799951123885 0.54835142318904484 3.9781785661009875e-16 -2.196953861827638e-16 3.9043945243687795e-16 -1 -0.54835142318904484 -0.83624799951123885 -2.0603393334921734e-16</Rotation>
+<Translation>-0.33086582226095862 0.082999999999999755 0.58285218579707743</Translation>
+</Transform>
+</Instance>
+<Instance name="New_Mounting_Bracket-1" uid="New_Mounting_Bracket-1" entityUid="New_Mounting_Bracket*:*Default">
+<Transform>
+<Rotation>-0.40703542222597222 0.91341237404215436 1.1360553755573667e-16 6.1459297064942023e-16 3.9825018490974596e-16 -1 -0.91341237404215436 -0.40703542222597222 -7.234787565568171e-16</Rotation>
+<Translation>-0.59345572405523916 0.082999999999999685 0.31144689180488344</Translation>
+</Transform>
+</Instance>
+<Instance name="Pinion_gear-1" uid="Pinion_gear-1" entityUid="Pinion_gear*:*Default">
+<Transform>
+<Rotation>-0.88520383642494904 -0.46520336195964074 -6.5537005151663442e-16 9.064949159343639e-16 -3.161256727603746e-16 -1 0.46520336195964074 -0.88520383642494904 7.015401408129422e-16</Rotation>
+<Translation>-0.42407630836916477 0.067999999999999908 0.26108099256740425</Translation>
+</Transform>
+</Instance>
+<Instance name="New_Mounting_Bracket-3" uid="New_Mounting_Bracket-3" entityUid="New_Mounting_Bracket*:*Default">
+<Transform>
+<Rotation>0.66178049516523296 0.74969765653819365 1.4675660657558258e-16 6.5059954338314393e-16 -3.7854924438373318e-16 -1 -0.74969765653819365 0.66178049516523296 -7.3826945941185318e-16</Rotation>
+<Translation>-0.52983247496389463 0.08299999999999981 -0.41044659981839904</Translation>
+</Transform>
+</Instance>
+<Instance name="Matlab_Slewing_bearing_assembly-1" uid="Matlab_Slewing_bearing_assembly-1" entityUid="Matlab_Slewing_bearing_assembly">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="Changed_Ring-2-1" uid="Changed_Ring-2-1" entityUid="Changed_Ring-2*:*Default">
+<Transform>
+<Rotation>-0.99995774559770334 -2.8657943133927999e-16 0.0091927699394027101 -2.8564156067250659e-16 1 1.033355872552598e-16 -0.0091927699394027101 1.0070538371939007e-16 -0.99995774559770334</Rotation>
+<Translation>0 -0.017000000000000116 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Changed_Ring-1-1" uid="Changed_Ring-1-1" entityUid="Changed_Ring-1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Telescope_Multibody_Part-2" uid="Telescope_Multibody_Part-2" entityUid="Telescope_Multibody_Part*:*Default">
+<Transform>
+<Rotation>0.9996344202795383 0 -0.02703748864801753 0 1 1.3773805825752439e-16 0.02703748864801753 -1.3780377778888503e-16 0.9996344202795383</Rotation>
+<Translation>0 -1.837 0</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-8" uid="LinearActuator-700mm stroke.STEP.step[1]-8" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>-2.5743546132832076e-15 -0.71693888284676355 -0.69713602565240795 -1 2.9802781142050194e-15 6.2782202526615895e-16 1.6275492184534886e-15 0.69713602565240795 -0.71693888284676355</Rotation>
+<Translation>-0.6613929173158013 0.28099999999999986 -0.050536364495060486</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-9" uid="LinearActuator-700mm stroke.STEP.step[1]-9" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>-5.4161833192526673e-16 -0.17166056661853821 -0.98515615506791732 -1 2.7907619479334957e-15 0 2.7384363629117351e-15 0.98515615506791732 -0.17166056661853821</Rotation>
+<Translation>-0.52907710686960074 0.28100000000000036 -0.40008990264486438</Translation>
+</Transform>
+</Instance>
+<Instance name="New_Linear_Actuator_Assem-5" uid="New_Linear_Actuator_Assem-5" entityUid="New_Linear_Actuator_Assem">
+<Transform>
+<Rotation>0.95415443466591776 -0.076401385497045685 -0.28939962526149654 0.04824632036414013 0.99348860604817146 -0.10321183180131091 0.29540075724121551 0.084517559989585336 0.95162764497187835</Rotation>
+<Translation>-0.71133636139841316 0.15592378971625742 0.71709673254173989</Translation>
+</Transform>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-1" uid="LinearActuator-700mm stroke.STEP.step[13]-1" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>0.14302663073069019 0.92755190066944337 -0.34524028511506227 0.98018227817623071 -0.18105880379456171 -0.080376682674371883 -0.137062337828745 -0.32690240307006802 -0.93506616579573332</Rotation>
+<Translation>0.49377501081578018 1.0593367015732871 -0.3971082625461172</Translation>
+</Transform>
+</Instance>
+<Instance name="NewBox-1" uid="NewBox-1" entityUid="NewBox*:*Default">
+<Transform>
+<Rotation>-0.097381820609543146 0.36078283298859137 -0.92755190066944349 -0.96167310825184682 0.2059187763020012 0.18105880379456341 0.25632326051297527 0.90963355533259249 0.32690240307006752</Rotation>
+<Translation>0.3449636736004531 0.078653068353521316 -0.27618175211004359</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-2" uid="LinearActuator-700mm stroke.STEP.step[13]-2" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>-0.06372375893624313 0.039212185931692956 0.99719691486761719 -0.96395809093746321 -0.2610547418223822 -0.051334400632042171 0.25831004909456623 -0.96452725531552908 0.054434293329252204</Rotation>
+<Translation>0.38472265678831441 0.09277492281527544 -0.27838753781303538</Translation>
+</Transform>
+</Instance>
+<Instance name="NewCylinder-1" uid="NewCylinder-1" entityUid="NewCylinder*:*Default">
+<Transform>
+<Rotation>-0.097381820609543007 -0.99447432620919329 0.039212185931694343 -0.96167310825184693 0.08387642480029886 -0.26105474182238414 0.25632326051297527 -0.063131290763699721 -0.96452725531552863</Rotation>
+<Translation>0.34665538903298843 0.095359238233061083 -0.28063459569856297</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="New_Linear_Actuator_Assem-1" uid="New_Linear_Actuator_Assem-1" entityUid="New_Linear_Actuator_Assem">
+<Transform>
+<Rotation>0.95415443466591776 -0.076401385497045685 -0.28939962526149654 0.04824632036414013 0.99348860604817146 -0.10321183180131091 0.29540075724121551 0.084517559989585336 0.95162764497187835</Rotation>
+<Translation>-0.023076129860184258 0.17330921773759522 0.7981794827891433</Translation>
+</Transform>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-2" uid="LinearActuator-700mm stroke.STEP.step[13]-2" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>-0.22386816623810782 -0.86081570219686665 -0.457033227453434 -0.95407875024509248 0.28932774352869484 -0.077609246584129016 0.1990396505120256 0.41867145075334333 -0.88605724072891667</Rotation>
+<Translation>-0.22544562127528775 0.058560267361988105 -0.72593110333461741</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-1" uid="LinearActuator-700mm stroke.STEP.step[13]-1" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>-0.11525793505070395 -0.3244206827885095 -0.93886464891744903 0.8428884289194124 -0.53205199433936856 0.080372705026427585 -0.52559937671349299 -0.78209455687821894 0.33477365383173435</Rotation>
+<Translation>-0.10774849210228293 0.91150775032869125 -0.74101468538535065</Translation>
+</Transform>
+</Instance>
+<Instance name="NewBox-1" uid="NewBox-1" entityUid="NewBox*:*Default">
+<Transform>
+<Rotation>-0.0036009884660799241 0.94590604896105068 0.32442068278850789 -0.82611388883922166 -0.18562466966016022 0.5320519943393639 0.56349168188093535 -0.26609251878331913 0.78209455687822282</Rotation>
+<Translation>0.023087163905949559 0.068074084436010096 -0.22150618401331779</Translation>
+</Transform>
+</Instance>
+<Instance name="NewCylinder-1" uid="NewCylinder-1" entityUid="NewCylinder*:*Default">
+<Transform>
+<Rotation>-0.0036009884660818947 0.50890407714360597 -0.86081570219686498 -0.82611388883922321 0.48355485675518739 0.28932774352869411 0.56349168188093313 0.71217367318308311 0.41867145075334705</Rotation>
+<Translation>0.023676556784606839 0.20328852561156735 -0.31373585585652536</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-12" uid="LinearActuator-700mm stroke.STEP.step[1]-12" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>0.012715822533126864 0.17372619337077708 0.98471189573103335 0.99986850448372466 0.007702482817639582 -0.014270441476141786 -0.010063875932564147 0.98476387093320183 -0.17360540575071573</Rotation>
+<Translation>0.15770247778086774 1.2693435121577796 -0.11125647714927059</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-4" uid="LinearActuator-700mm stroke.STEP.step[1]-4" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>-3.5455868038842812e-15 -0.99884582430213431 -0.048031440475896345 -1 3.5102653002934636e-15 8.1973320190307036e-16 -6.5018398694028191e-16 0.048031440475896345 -0.99884582430213431</Rotation>
+<Translation>0.044104048890985646 0.28099999999999958 0.66185296560739693</Translation>
+</Transform>
+</Instance>
+<Instance name="New_Linear_Actuator_Assem-7" uid="New_Linear_Actuator_Assem-7" entityUid="New_Linear_Actuator_Assem">
+<Transform>
+<Rotation>0.25217749209774326 -0.11210026661692496 -0.96116598082938132 0.048246320364138985 0.99348860604817135 -0.10321183180131105 0.96647752433805378 -0.020345020935737489 0.25594389047701621</Rotation>
+<Translation>-0.56216742284963239 0.4872932611623193 0.38665506401468719</Translation>
+</Transform>
+<Instance name="NewBox-1" uid="NewBox-1" entityUid="NewBox*:*Default">
+<Transform>
+<Rotation>0.0006832191838890278 0.49990431205635089 -0.86608037271318716 -0.96396253101338358 0.2307389086843244 0.13242278815006969 0.26603716284349821 0.83477855435237047 0.48204667116322708</Rotation>
+<Translation>-0.46401864536367454 -0.18885909930005573 -0.016888169041991752</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-1" uid="LinearActuator-700mm stroke.STEP.step[13]-1" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>0.082975434330716094 0.86608037271318739 -0.49297045073575679 0.98898111508746478 -0.13242278815006853 -0.066185792878205682 -0.12260273772629914 -0.48204667116322697 -0.86752497112329152</Rotation>
+<Translation>-0.37008256098430131 0.80147152523925991 -0.12016892275231206</Translation>
+</Transform>
+</Instance>
+<Instance name="NewCylinder-1" uid="NewCylinder-1" entityUid="NewCylinder*:*Default">
+<Transform>
+<Rotation>0.00068321918388705716 0.43387208652536757 -0.9009742203557608 -0.96396253101338425 0.23997848455332565 0.11483277299516681 0.26603716284349638 0.86842693387850023 0.41840039256741834</Rotation>
+<Translation>-0.46403020475561985 -0.17254980793064428 -0.021389254368904598</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-2" uid="LinearActuator-700mm stroke.STEP.step[13]-2" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>0.066044791141189482 -0.90097422035576369 0.4288164407032925 0.98939999542670087 0.11483277299516889 0.088888037979719475 -0.12932801170960875 0.41840039256741113 0.89900799600819747</Rotation>
+<Translation>-0.39010626687137628 2.0367032094742639 -0.46854726678454572</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="New_Linear_Actuator_Assem-8" uid="New_Linear_Actuator_Assem-8" entityUid="New_Linear_Actuator_Assem">
+<Transform>
+<Rotation>-0.51752905773815161 -0.38306361659678889 -0.76513132208559409 0.045859825967386206 0.88049171230465506 -0.47183813000334962 0.85443580844841815 -0.2792787320986066 -0.43811281542371339</Rotation>
+<Translation>-0.060222065150766335 0.35602578863266932 -0.42180742279761479</Translation>
+</Transform>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-1" uid="LinearActuator-700mm stroke.STEP.step[13]-1" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>-0.00027181373961487893 -0.36605792604740506 -0.93059202709627986 0.81987519916091833 -0.53288483377649265 0.20937624443055636 -0.57254221147277451 -0.7629124122131401 0.30026666044200179</Rotation>
+<Translation>0.25135488703671471 0.91764993386299332 -0.20016978803155619</Translation>
+</Transform>
+</Instance>
+<Instance name="NewCylinder-1" uid="NewCylinder-1" entityUid="NewCylinder*:*Default">
+<Transform>
+<Rotation>-0.092871414560607282 0.94527410193044514 -0.31278071004635527 -0.79480197809508879 0.11883111838078605 0.59512098007086378 0.59972053155919691 0.30386845430870574 0.74026971199853375</Rotation>
+<Translation>0.26517886226140597 0.10604697608264735 0.36009181566876902</Translation>
+</Transform>
+</Instance>
+<Instance name="NewBox-1" uid="NewBox-1" entityUid="NewBox*:*Default">
+<Transform>
+<Rotation>-0.092871414560605658 0.92594627011257191 0.36605792604740583 -0.79480197809508824 -0.29038520889868591 0.53288483377649387 0.59972053155919802 -0.24145379540914746 0.76291241221313899</Rotation>
+<Translation>0.26401420651323521 0.096079746699688329 0.36761262244657278</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-2" uid="LinearActuator-700mm stroke.STEP.step[13]-2" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>0.08174927976366636 -0.31278071004635666 0.946300841530334 0.79334965891364517 0.595120980070865 0.12816917640796585 -0.60325233025635683 0.74026971199853231 0.29679518112308523</Rotation>
+<Translation>0.46267486754704701 1.902246477538075 -1.0004704910473803</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="New_Linear_Actuator_Assem-9" uid="New_Linear_Actuator_Assem-9" entityUid="New_Linear_Actuator_Assem">
+<Transform>
+<Rotation>-0.70621347436038295 -0.32841066792318613 -0.62722321531180891 0.045285445477027009 0.86314269487518347 -0.50292535898635427 0.70654918941272871 -0.38357674783262458 -0.5946907780202777</Rotation>
+<Translation>-0.56648078948046277 0.02311371719343619 -0.33550258063153526</Translation>
+</Transform>
+<Instance name="NewCylinder-1" uid="NewCylinder-1" entityUid="NewCylinder*:*Default">
+<Transform>
+<Rotation>-0.10153613698858231 -0.58330525503440733 -0.80588174835684223 -0.5392241371770774 0.71301977244839443 -0.44815190949417605 0.83601898469536695 0.38904727675037754 -0.38692954614767133</Rotation>
+<Translation>-0.40750627008429219 0.25670743210616154 -0.33594979129937308</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-2" uid="LinearActuator-700mm stroke.STEP.step[13]-2" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>-0.14736102465714432 -0.80588174835684401 -0.57344514652869183 0.78476618288222932 -0.44815190949417633 0.42813771641982085 -0.60201890885291287 -0.3869295461476675 0.69846886809757536</Rotation>
+<Translation>-0.45933421803766161 1.7541404840936403 -1.9623706489055865</Translation>
+</Transform>
+</Instance>
+<Instance name="NewBox-1" uid="NewBox-1" entityUid="NewBox*:*Default">
+<Transform>
+<Rotation>-0.1015361369885783 0.62368149829630315 -0.7750559989886634 -0.53922413717707474 0.62020860300446912 0.56971801678100742 0.83601898469536939 0.47577586891531531 0.27333053211597258</Rotation>
+<Translation>-0.42218782592912174 0.17873864663023431 -0.21506613573256356</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-1" uid="LinearActuator-700mm stroke.STEP.step[13]-1" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>0.30882499338464492 0.77505599898866484 -0.5512851547907458 0.71890145918399417 -0.56971801678100664 -0.39824875811261529 -0.62274217413316224 -0.27333053211596992 -0.73313205138576687</Rotation>
+<Translation>-0.08641106461921999 0.9200993867102466 -0.808197009727743</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="New_Mounting_Bracket-6" uid="New_Mounting_Bracket-6" entityUid="New_Mounting_Bracket*:*Default">
+<Transform>
+<Rotation>0.96204233339187584 0.27290025423570929 2.7462596144688038e-16 4.8683043468822372e-16 -5.8848260143601821e-16 -0.99999999999999989 -0.27290025423570918 0.96204233339187584 -7.2819039398600109e-16</Rotation>
+<Translation>-0.22381925612437434 0.082999999999999949 -0.63173871451477714</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-1" uid="LinearActuator-700mm stroke.STEP.step[1]-1" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>0.01271582253312287 -0.76592242042641967 0.64280724462737748 0.99986850448372477 0.016209806250375502 -0.00046467494577825849 -0.010063875932565523 0.64272862708102563 0.7660278260818949</Rotation>
+<Translation>-0.4741829971932699 1.2768649099133071 -0.16238338282965509</Translation>
+</Transform>
+</Instance>
+<Instance name="Copycopy_mirror^telescope -emb2-2" uid="Copycopy_mirror^telescope -emb2-2" entityUid="Copycopy_mirror^telescope -emb2" rigid="true">
+<Transform>
+<Rotation>-0.30662929772178049 0.95174407360169766 0.012715822533124355 0.013478944742258886 -0.0090161959891721273 0.99986850448372455 0.95173357187149954 0.30676037321324767 -0.010063875932567875</Rotation>
+<Translation>-0.17045780137718375 1.4731015964223904 0.04360067017379779</Translation>
+</Transform>
+<Instance name="body^Copycopy_mirror_telescope -emb2-1" uid="body^Copycopy_mirror_telescope -emb2-1" grounded="true" entityUid="body^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-5" uid="mirror segment^Copycopy_mirror_telescope -emb2-5" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.11691342951089906 0.067499999999999977 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-1" uid="mirror segment^Copycopy_mirror_telescope -emb2-1" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-2" uid="mirror segment^Copycopy_mirror_telescope -emb2-2" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0.13500000000000004 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-3" uid="mirror segment^Copycopy_mirror_telescope -emb2-3" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0.26999999999999991 0.03499999999999992</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-4" uid="mirror segment^Copycopy_mirror_telescope -emb2-4" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.11691342951089925 0.20250000000000007 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-6" uid="mirror segment^Copycopy_mirror_telescope -emb2-6" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.23382685902179851 0.13499999999999987 0.03499999999999992</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-7" uid="mirror segment^Copycopy_mirror_telescope -emb2-7" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.23382685902179845 0 0.035000000000000364</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-8" uid="mirror segment^Copycopy_mirror_telescope -emb2-8" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.11691342951089922 -0.067500000000000171 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-9" uid="mirror segment^Copycopy_mirror_telescope -emb2-9" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.23382685902179839 -0.13500000000000001 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-10" uid="mirror segment^Copycopy_mirror_telescope -emb2-10" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.11691342951089917 -0.20250000000000012 0.03499999999999992</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-11" uid="mirror segment^Copycopy_mirror_telescope -emb2-11" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -0.13500000000000001 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-12" uid="mirror segment^Copycopy_mirror_telescope -emb2-12" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -0.27000000000000024 0.03499999999999992</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-13" uid="mirror segment^Copycopy_mirror_telescope -emb2-13" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11691342951089931 -0.20250000000000012 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-19" uid="mirror segment^Copycopy_mirror_telescope -emb2-19" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11691342951089934 0.20250000000000007 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-18" uid="mirror segment^Copycopy_mirror_telescope -emb2-18" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.23382685902179856 0.13499999999999984 0.03499999999999992</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-14" uid="mirror segment^Copycopy_mirror_telescope -emb2-14" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11691342951089914 -0.067500000000000226 0.03499999999999992</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-15" uid="mirror segment^Copycopy_mirror_telescope -emb2-15" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.23382685902179839 -0.13500000000000006 0.03499999999999992</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-16" uid="mirror segment^Copycopy_mirror_telescope -emb2-16" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11691342951089939 0.06749999999999988 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-17" uid="mirror segment^Copycopy_mirror_telescope -emb2-17" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.23382685902179839 0 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-7" uid="LinearActuator-700mm stroke.STEP.step[1]-7" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>-2.0762801444643893e-15 -0.63576208550986002 0.77188507604963674 -1 4.0294813337459627e-15 6.289942983276491e-16 -3.5101872326189792e-15 -0.77188507604963674 -0.63576208550986002</Rotation>
+<Translation>-0.58372114969328204 0.28099999999999969 0.31506211230904424</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-10" uid="LinearActuator-700mm stroke.STEP.step[1]-10" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>0.012715822533120511 -0.939648613797197 -0.34190465110365564 0.99986850448372466 0.0085073234327304216 0.013805766530362451 -0.010063875932569166 -0.34203524385217554 0.93963323183261072</Rotation>
+<Translation>-0.31393344851696742 1.2803199655680415 0.38336123775083603</Translation>
+</Transform>
+</Instance>
+<Instance name="Copycopy_mirror^telescope -emb2-1" uid="Copycopy_mirror^telescope -emb2-1" entityUid="Copycopy_mirror^telescope -emb2" rigid="true">
+<Transform>
+<Rotation>0.54451656140945959 -0.67671110182677352 -0.49554394256736933 -0.25000000000000072 0.43301270189222074 -0.86602540378443782 0.80062582668236337 0.59545116060378367 0.066604812024277538</Rotation>
+<Translation>0.0036389826398492142 2.5938201233583817 0.017745935323742634</Translation>
+</Transform>
+<Instance name="body^Copycopy_mirror_telescope -emb2-1" uid="body^Copycopy_mirror_telescope -emb2-1" grounded="true" entityUid="body^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-5" uid="mirror segment^Copycopy_mirror_telescope -emb2-5" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.116913429510899 0.067499999999999893 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-1" uid="mirror segment^Copycopy_mirror_telescope -emb2-1" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-2" uid="mirror segment^Copycopy_mirror_telescope -emb2-2" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0.13500000000000023 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-3" uid="mirror segment^Copycopy_mirror_telescope -emb2-3" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0.27000000000000002 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-4" uid="mirror segment^Copycopy_mirror_telescope -emb2-4" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.11691342951089922 0.20250000000000012 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-6" uid="mirror segment^Copycopy_mirror_telescope -emb2-6" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.23382685902179845 0.13500000000000001 0.034999999999999254</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-7" uid="mirror segment^Copycopy_mirror_telescope -emb2-7" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.23382685902179845 0 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-8" uid="mirror segment^Copycopy_mirror_telescope -emb2-8" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.11691342951089922 -0.067500000000000115 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-9" uid="mirror segment^Copycopy_mirror_telescope -emb2-9" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.23382685902179834 -0.13500000000000012 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-10" uid="mirror segment^Copycopy_mirror_telescope -emb2-10" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.11691342951089911 -0.20250000000000024 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-11" uid="mirror segment^Copycopy_mirror_telescope -emb2-11" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -0.13500000000000034 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-12" uid="mirror segment^Copycopy_mirror_telescope -emb2-12" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 -0.27000000000000035 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-13" uid="mirror segment^Copycopy_mirror_telescope -emb2-13" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11691342951089934 -0.20250000000000035 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-19" uid="mirror segment^Copycopy_mirror_telescope -emb2-19" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11691342951089922 0.2024999999999999 0.034999999999999254</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-18" uid="mirror segment^Copycopy_mirror_telescope -emb2-18" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.23382685902179856 0.13499999999999979 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-14" uid="mirror segment^Copycopy_mirror_telescope -emb2-14" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11691342951089934 -0.067500000000000338 0.034999999999999254</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-15" uid="mirror segment^Copycopy_mirror_telescope -emb2-15" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.23382685902179856 -0.13500000000000023 0.034999999999999698</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-16" uid="mirror segment^Copycopy_mirror_telescope -emb2-16" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11691342951089934 0.067499999999999671 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+<Instance name="mirror segment^Copycopy_mirror_telescope -emb2-17" uid="mirror segment^Copycopy_mirror_telescope -emb2-17" entityUid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.23382685902179834 0 0.035000000000000142</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-11" uid="LinearActuator-700mm stroke.STEP.step[1]-11" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>0.012715822533128947 0.76592242042641956 -0.64280724462737726 0.99986850448372444 -0.016209806250383506 0.00046467494577818059 -0.01006387593257072 -0.64272862708102552 -0.76602782608189479</Rotation>
+<Translation>-0.39501896619014176 1.2750225135867694 -0.2454049041637229</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-13" uid="LinearActuator-700mm stroke.STEP.step[1]-13" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>0.012715822533126883 0.17372619337077666 0.98471189573103324 0.99986850448372466 0.0077024828176396019 -0.014270441476141808 -0.010063875932564168 0.98476387093320161 -0.17360540575071531</Rotation>
+<Translation>0.1900258119908812 1.2700404184490275 -0.0011763807617742672</Translation>
+</Transform>
+</Instance>
+<Instance name="rack-1" uid="rack-1" entityUid="rack*:*?? ?????????">
+<Transform>
+<Rotation>-0.13320962404855413 -1.2441390252124193e-16 0.99108788513473556 0 1 1.1529931035507593e-16 -0.99108788513473556 0 -0.13320962404855413</Rotation>
+<Translation>0.66221023171250015 2.6630000000000003 -0.038368271099441853</Translation>
+</Transform>
+</Instance>
+<Instance name="New_Mounting_Bracket-5" uid="New_Mounting_Bracket-5" entityUid="New_Mounting_Bracket*:*Default">
+<Transform>
+<Rotation>-0.99995774559770323 0.0091927699394173633 0 0 7.3906822304949479e-16 -1 -0.0091927699394173633 -0.99995774559770323 -7.3912247601024004e-16</Rotation>
+<Translation>0.036771640314989182 0.082999999999999838 0.66920602903545112</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-14" uid="LinearActuator-700mm stroke.STEP.step[1]-14" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>0.012715822533127846 0.93964861379719689 0.34190465110365564 0.99986850448372455 -0.008507323432738181 -0.013805766530362569 -0.010063875932566623 0.34203524385217565 -0.93963323183261072</Rotation>
+<Translation>-0.20244608330382571 1.2791744755327519 0.41041981280426404</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-6" uid="LinearActuator-700mm stroke.STEP.step[1]-6" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>-3.1813956369118576e-15 -0.97995158769774093 0.19923575424274934 -1 3.4248284001981958e-15 8.5243821798154764e-16 -1.5138481710777884e-15 -0.19923575424274931 -0.97995158769774082</Rotation>
+<Translation>-0.22878305327250104 0.28100000000000031 -0.62261772360509904</Translation>
+</Transform>
+</Instance>
+<Instance name="New_Linear_Actuator_Assem-6" uid="New_Linear_Actuator_Assem-6" entityUid="New_Linear_Actuator_Assem">
+<Transform>
+<Rotation>0.59943847582429255 -0.11145450882802915 -0.79262311735360813 0.048246320364140519 0.99348860604817135 -0.10321183180131095 0.79896545999984858 0.023627994294145159 0.60091256569726192</Rotation>
+<Translation>-0.4417222653192765 0.24737281580573101 0.73712335677658469</Translation>
+</Transform>
+<Instance name="NewBox-1" uid="NewBox-1" entityUid="NewBox*:*Default">
+<Transform>
+<Rotation>-0.21397896527880023 0.97549672325953329 0.051177586188948909 -0.94795488402586225 -0.22001272822300724 0.23016502182430601 0.23578494495986829 0.00073643043286891752 0.97180497909842456</Rotation>
+<Translation>-0.39866712147915306 0.033206194555254531 -0.16217325423148288</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-1" uid="LinearActuator-700mm stroke.STEP.step[13]-1" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>0.041910819727538962 -0.051177586188950686 -0.99780977037792051 0.97172791997828656 -0.23016502182430354 0.052620454799350236 -0.23235389543633284 -0.97180497909842489 0.040084284639635037</Rotation>
+<Translation>-0.37972518674939287 1.0061524724765429 -0.39360611229060061</Translation>
+</Transform>
+</Instance>
+<Instance name="NewCylinder-1" uid="NewCylinder-1" entityUid="NewCylinder*:*Default">
+<Transform>
+<Rotation>-0.21397896527880308 0.80939588110848848 0.54689241178025694 -0.94795488402586214 -0.30719430961718919 0.083744814707137072 0.23578494495986591 -0.50050970398527928 0.83300389911863015</Rotation>
+<Translation>-0.39185621306508872 0.063379412223109943 -0.1696782426936061</Translation>
+</Transform>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[13]-2" uid="LinearActuator-700mm stroke.STEP.step[13]-2" entityUid="LinearActuator-700mm stroke.STEP.step[13]*:*Default">
+<Transform>
+<Rotation>-0.042461185944325283 0.54689241178025871 -0.83612543175373699 -0.99092942886637525 0.083744814707132936 0.10509839682995778 0.12749868507071255 0.83300389911862927 0.53837588110761359</Rotation>
+<Translation>-0.19786960463735387 0.014775202008407651 -0.29215000262925034</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="LinearActuator-700mm stroke.STEP.step[1]-5" uid="LinearActuator-700mm stroke.STEP.step[1]-5" entityUid="LinearActuator-700mm stroke.STEP.step[1]*:*Default">
+<Transform>
+<Rotation>2.9244647753046274e-16 -0.052663861173893919 0.99861229600193546 -1 3.7385776199412209e-15 3.9867093067307861e-16 -3.7486657662353169e-15 -0.99861229600193546 -0.052663861173893926</Rotation>
+<Translation>-0.32072204141970273 0.28100000000000003 0.58063059457753563</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<UnknownConstraint name="Coincident4">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>New_New_Aligned_System_Assembly</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</UnknownConstraint>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Telescope_Multibody_Part-2</Uid>
+</InstancePath>
+<Position>0 1.8200000000000001 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_New_Aligned_System_Assembly</Uid>
+</InstancePath>
+<Position>0 -0.017000000000000116 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Telescope_Multibody_Part-2</Uid>
+</InstancePath>
+<Position>0 1.8200000000000001 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_New_Aligned_System_Assembly</Uid>
+</InstancePath>
+<Position>0 -0.017000000000000116 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident15">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Pinion_gear-1</Uid>
+</InstancePath>
+<Position>0 0 0.08500000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_New_Aligned_System_Assembly</Uid>
+</InstancePath>
+<Position>-0.42407630836916482 -0.017000000000000116 0.2610809925674043</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<UnknownConstraint name="GearMate1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Pinion_gear-1</Uid>
+</InstancePath>
+<Position>0 0 0.45835238046649712</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</UnknownConstraint>
+<Coincident name="Coincident33">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>rack-1</Uid>
+</InstancePath>
+<Position>-0.0015537519329600069 -0.040022818909227098 -0.71067844418709025</Position>
+<Axis>-1.6653345369377348e-16 -0.86602540378443771 -0.50000000000000144</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-1</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>0 0.067335340522293397 0</Position>
+<Axis>0 -1.1796119636642288e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel1">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>rack-1</Uid>
+</InstancePath>
+<Position>-0.054015341023436907 0 -0.72000000000000008</Position>
+<Axis>1.0000000000000002 -2.3129646346357439e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-1</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>-0.041291651245988659 0.33616025403784477 -4.4408920985006262e-16</Position>
+<Axis>-0.8660254037844386 -0.50000000000000033 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident56">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>-0.65922108029270221 0.080000000000000002 0.094781682290000793</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>rack-1</Uid>
+</InstancePath>
+<Position>0.050186447347300857 -2.6000000000000001 0.0045804389689249048</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident57">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>-0.66600000000000004 0.080000000000000002 -7.4485142688538577e-15</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>rack-1</Uid>
+</InstancePath>
+<Position>-0.044595234942707292 -2.6000000000000001 -0.0021984807383745864</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident98">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0.18763388285638793 0.080000000000000002 0.6390223204272566</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-6</Uid>
+</InstancePath>
+<Position>0.042921943618300318 0.0028397189049691463 0.01999999999999999</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident99">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0.27666639865925241 0.080000000000000016 0.60581490890611112</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-6</Uid>
+</InstancePath>
+<Position>-0.051859738671707817 0.0096186386122687484 0.020000000000000004</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident100">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0.5033292165199339 0.080000000000000002 0.43613724880756266</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-3</Uid>
+</InstancePath>
+<Position>0.042921943618300318 0.0028397189049692573 0.020000000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident101">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0.56027485286556467 0.080000000000000002 0.360066784425431</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-3</Uid>
+</InstancePath>
+<Position>-0.0518597386717079 0.0096186386122688594 0.01999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident102">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0.65922108029269955 0.080000000000000002 0.094781682290019903</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-2</Uid>
+</InstancePath>
+<Position>0.042921943618300318 0.0028397189049691463 0.020000000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident103">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0.66600000000000026 0.080000000000000002 1.1852019124864098e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-2</Uid>
+</InstancePath>
+<Position>-0.051859738671707831 0.0096186386122687484 0.020000000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident104">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0.60581490890611411 0.080000000000000016 -0.27666639865924608</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-1</Uid>
+</InstancePath>
+<Position>0.042921943618300346 0.0028397189049692573 0.020000000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident105">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0.56027485286557255 0.080000000000000002 -0.36006678442541856</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-1</Uid>
+</InstancePath>
+<Position>-0.051859738671707872 0.0096186386122688594 0.01999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident106">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0.36006678442543683 0.080000000000000016 -0.56027485286556111</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-4</Uid>
+</InstancePath>
+<Position>0.042921943618300262 0.0028397189049691463 0.020000000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident107">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0.27666639865926546 0.079999999999999988 -0.60581490890610523</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-4</Uid>
+</InstancePath>
+<Position>-0.051859738671707872 0.0096186386122688594 0.020000000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident110">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0 0.080000000000000002 -0.66600000000000015</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-5</Uid>
+</InstancePath>
+<Position>0.042921943618300332 0.0028397189049692573 0.020000000000000018</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident111">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly-1</Uid>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>-0.094781682289998267 0.080000000000000002 -0.65922108029270265</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-5</Uid>
+</InstancePath>
+<Position>-0.051859738671707824 0.0096186386122689704 0.020000000000000004</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric62">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-5</Uid>
+</InstancePath>
+<Position>-0.0072645037290005321 0.0074201578738942731 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-4</Uid>
+</InstancePath>
+<Position>0.19800000000000004 -5.2735593669694936e-16 -2.2204460492503131e-16</Position>
+<Axis>1 -3.5432649722079465e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident112">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>New_Mounting_Bracket-5</Uid>
+</InstancePath>
+<Position>0.04292194361830521 0.66883971890496929 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-4</Uid>
+</InstancePath>
+<Position>0.19800000000000004 -5.2041704279304213e-16 -2.2204460492503131e-16</Position>
+<Axis>1 -3.9875655827835922e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric63">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-4</Uid>
+</InstancePath>
+<Position>-0.0072645037290005599 0.0074201578738942731 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-5</Uid>
+</InstancePath>
+<Position>0.19800000000000001 -5.5511151231257827e-16 0</Position>
+<Axis>1 -3.5537802250785215e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident115">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>New_Mounting_Bracket-4</Uid>
+</InstancePath>
+<Position>0.042921943618305154 0.66883971890496929 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-5</Uid>
+</InstancePath>
+<Position>0.19800000000000001 -5.5511151231257827e-16 -1.1102230246251565e-16</Position>
+<Axis>1 -3.9980808356541672e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric64">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-1</Uid>
+</InstancePath>
+<Position>-0.0072645037290005321 0.0074201578738942731 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-7</Uid>
+</InstancePath>
+<Position>0.19800000000000001 -5.2735593669694936e-16 -1.1102230246251565e-16</Position>
+<Axis>1 -3.5432649722079501e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident116">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>New_Mounting_Bracket-1</Uid>
+</InstancePath>
+<Position>0.042921943618305258 0.66883971890496929 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-7</Uid>
+</InstancePath>
+<Position>0.19800000000000001 -4.163336342344337e-16 -1.1102230246251565e-16</Position>
+<Axis>1 -3.9875655827835953e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric65">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-2</Uid>
+</InstancePath>
+<Position>-0.0072645037290005321 0.007420157873894162 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-8</Uid>
+</InstancePath>
+<Position>0.19799999999999995 -5.5511151231257827e-16 -1.1102230246251565e-16</Position>
+<Axis>1 -3.5432649722079426e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident117">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>New_Mounting_Bracket-2</Uid>
+</InstancePath>
+<Position>0.04292194361830521 0.66883971890496929 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-8</Uid>
+</InstancePath>
+<Position>0.19799999999999995 -5.5511151231257827e-16 -1.1102230246251565e-16</Position>
+<Axis>1 -3.9875655827835874e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric66">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-3</Uid>
+</InstancePath>
+<Position>-0.0072645037290005599 0.0074201578738942731 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-9</Uid>
+</InstancePath>
+<Position>0.19800000000000004 -5.5511151231257827e-16 -1.1102230246251565e-16</Position>
+<Axis>1 -3.5432649722078653e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident118">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>New_Mounting_Bracket-3</Uid>
+</InstancePath>
+<Position>0.042921943618305175 0.6688397189049694 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-9</Uid>
+</InstancePath>
+<Position>0.19800000000000004 -5.5511151231257827e-16 -1.1102230246251565e-16</Position>
+<Axis>1 -3.9875655827835101e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric67">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Mounting_Bracket-6</Uid>
+</InstancePath>
+<Position>-0.0072645037290005043 0.0074201578738942731 0</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-6</Uid>
+</InstancePath>
+<Position>0.19800000000000001 -5.5511151231257827e-16 -1.1102230246251565e-16</Position>
+<Axis>1 -3.5488669847460126e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident119">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>New_Mounting_Bracket-6</Uid>
+</InstancePath>
+<Position>0.042921943618305272 0.66883971890496918 0</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-6</Uid>
+</InstancePath>
+<Position>0.19800000000000001 -5.5511151231257827e-16 -1.1102230246251565e-16</Position>
+<Axis>1 -3.993167595321657e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident127">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-4</Uid>
+</InstancePath>
+<Position>0.13300000000000001 0.044499999999999991 -1.1102230246251565e-16</Position>
+<Axis>4.625929269271479e-15 0.99999999999999989 -1.2490009027033011e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-1</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-1</Uid>
+</InstancePath>
+<Position>-1.1309999999999996 7.7715611723760958e-16 0.044499999999999984</Position>
+<Axis>5.8980598183211441e-16 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident128">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-5</Uid>
+</InstancePath>
+<Position>0.13300000000000003 -0.044499999999999984 -1.1102230246251565e-16</Position>
+<Axis>3.2276352356194603e-15 1.0000000000000002 -1.1796119636642288e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-5</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-1</Uid>
+</InstancePath>
+<Position>-1.131 9.9920072216264089e-16 -0.044499999999999984</Position>
+<Axis>6.3924560089745341e-16 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident129">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-7</Uid>
+</InstancePath>
+<Position>0.13300000000000001 -0.044499999999999956 0</Position>
+<Axis>3.2381504884900306e-15 1 -1.6653345369377348e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-6</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-1</Uid>
+</InstancePath>
+<Position>-1.131 9.9920072216264089e-16 -0.044500000000000012</Position>
+<Axis>5.9674487573602164e-16 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident130">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-8</Uid>
+</InstancePath>
+<Position>0.13299999999999995 0.044500000000000095 0</Position>
+<Axis>4.6259292692714837e-15 1.0000000000000002 -1.6653345369377348e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-7</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-1</Uid>
+</InstancePath>
+<Position>-1.1309999999999998 8.8817841970012523e-16 -0.044499999999999984</Position>
+<Axis>5.863365348801608e-16 -1.6653345369377348e-16 0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident131">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-9</Uid>
+</InstancePath>
+<Position>0.13300000000000003 0.044499999999999984 -1.1102230246251565e-16</Position>
+<Axis>4.6259292692715618e-15 1.0000000000000002 -1.3877787807814457e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-8</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-1</Uid>
+</InstancePath>
+<Position>-1.1310000000000002 9.9920072216264089e-16 -0.044499999999999984</Position>
+<Axis>5.9327542878406803e-16 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident132">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-6</Uid>
+</InstancePath>
+<Position>0.13300000000000001 0.04450000000000004 -1.1102230246251565e-16</Position>
+<Axis>4.6203272567334149e-15 1.0000000000000002 -1.6653345369377348e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-9</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-1</Uid>
+</InstancePath>
+<Position>-1.131 1.1102230246251565e-15 -0.044499999999999929</Position>
+<Axis>5.7592819402429996e-16 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric81">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>0.35630870432253053 0.083829404276260622 -0.29652950430023806</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-14</Uid>
+</InstancePath>
+<Position>0.19300000000000006 -5.2735593669694936e-16 -1.1102230246251565e-16</Position>
+<Axis>1.0000000000000002 -3.5388358909926865e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel45">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>0.4193636068165672 -0.078328313479232359 0.030000000000000027</Position>
+<Axis>0.037287960041037127 0.99930456220112296 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-14</Uid>
+</InstancePath>
+<Position>0.16000000000000014 -0.024500000000000383 -0.020749999999999935</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Concentric name="Concentric82">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>0.36475688253422406 -0.030588861391485644 -0.29652950430023828</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-10</Uid>
+</InstancePath>
+<Position>0.18949999999999978 -4.4408920985006262e-16 -1.6653345369377348e-16</Position>
+<Axis>1.0000000000000002 -4.0635897424756706e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel46">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>0.4193636068165672 -0.078328313479232359 0.030000000000000027</Position>
+<Axis>0.037287960041037127 0.99930456220112296 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-10</Uid>
+</InstancePath>
+<Position>0.15999999999999992 -0.024500000000000438 0.020749999999999991</Position>
+<Axis>0 1 1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Concentric name="Concentric83">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>-0.20886917230497939 -0.30059429578411168 -0.29652950430023806</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-11</Uid>
+</InstancePath>
+<Position>0.1895 -5.5511151231257827e-16 -1.6653345369377348e-16</Position>
+<Axis>1.0000000000000002 -4.0627223807376822e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident193">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-10</Uid>
+</InstancePath>
+<Position>0.19799999999999995 -5.2735593669694936e-16 -1.1102230246251565e-16</Position>
+<Axis>1.0000000000000002 -3.9889966330086679e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident194">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-14</Uid>
+</InstancePath>
+<Position>0.19800000000000018 -4.9960036108132044e-16 -1.1102230246251565e-16</Position>
+<Axis>1.0000000000000002 -3.9824914199737549e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel48">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>-0.099018947509605326 -0.43614686415003256 0</Position>
+<Axis>-0.8467791569633405 0.53194460175139924 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-11</Uid>
+</InstancePath>
+<Position>0.15999999999999992 -0.024500000000000355 0.020749999999999935</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident196">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-11</Uid>
+</InstancePath>
+<Position>0.19799999999999973 -5.5511151231257827e-16 -1.1102230246251565e-16</Position>
+<Axis>1.0000000000000002 -3.9881292712706795e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric84">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>-0.10555595847390761 -0.35048709167095993 -0.29652950430023806</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-1</Uid>
+</InstancePath>
+<Position>0.18950000000000022 -5.5511151231257827e-16 -1.1102230246251565e-16</Position>
+<Axis>1.0000000000000002 -4.0670591894276242e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel49">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>-0.099018947509605326 -0.43614686415003256 0</Position>
+<Axis>-0.8467791569633405 0.53194460175139924 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-1</Uid>
+</InstancePath>
+<Position>0.15999999999999992 -0.02450000000000041 -0.020749999999999991</Position>
+<Axis>0 1 -1.6653345369377348e-16</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident198">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-1</Uid>
+</InstancePath>
+<Position>0.19800000000000018 -5.5511151231257827e-16 -1.1102230246251565e-16</Position>
+<Axis>1.0000000000000002 -3.9924660799606215e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric85">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>-0.25075274584862273 0.26665768739469931 -0.29652950430023806</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-12</Uid>
+</InstancePath>
+<Position>0.18950000000000022 -4.8572257327350599e-16 0</Position>
+<Axis>1.0000000000000002 -4.0609876572617054e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel50">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>-0.32820479038004591 0.3038263560743325 0.030000000000000027</Position>
+<Axis>0.88406711700437812 0.46735996044972394 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-12</Uid>
+</InstancePath>
+<Position>0.16000000000000014 -0.024500000000000424 0.020750000000000018</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident200">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-12</Uid>
+</InstancePath>
+<Position>0.19800000000000018 -5.2735593669694936e-16 -1.3877787807814457e-16</Position>
+<Axis>1.0000000000000002 -3.9881292712706795e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric86">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>-0.15588771022924447 0.33118315717559721 -0.29652950430023828</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-13</Uid>
+</InstancePath>
+<Position>0.18949999999999978 -4.8572257327350599e-16 -1.1102230246251565e-16</Position>
+<Axis>1.0000000000000002 -4.0609876572617054e-15 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel51">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>-0.1418474940996772 0.40234369366543221 -2.2204460492503131e-16</Position>
+<Axis>-0.88406711700437834 -0.46735996044972361 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-13</Uid>
+</InstancePath>
+<Position>0.15999999999999992 -0.024500000000000403 0.020750000000000018</Position>
+<Axis>0 1 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident202">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Copycopy_mirror^telescope -emb2-2</Uid>
+<Uid>body^Copycopy_mirror_telescope -emb2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-13</Uid>
+</InstancePath>
+<Position>0.19800000000000018 -5.2041704279304213e-16 0</Position>
+<Axis>1.0000000000000002 -3.9881292712706795e-15 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident203">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-12</Uid>
+</InstancePath>
+<Position>0.13300000000000001 0.044500000000000019 0</Position>
+<Axis>4.6265075104301445e-15 1.0000000000000002 -1.9428902930940239e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-9</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-2</Uid>
+</InstancePath>
+<Position>-1.131 8.3266726846886741e-16 -0.044500000000000053</Position>
+<Axis>6.4531713306337224e-16 -2.4980018054066022e-16 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident204">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-13</Uid>
+</InstancePath>
+<Position>0.13300000000000001 0.044500000000000005 -1.3877787807814457e-16</Position>
+<Axis>4.6247727869541677e-15 1 -2.2204460492503131e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-1</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-2</Uid>
+</InstancePath>
+<Position>-1.1310000000000002 9.5756735873919752e-16 -0.044499999999999977</Position>
+<Axis>5.7592819402429996e-16 -1.1102230246251565e-16 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident205">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-14</Uid>
+</InstancePath>
+<Position>0.13300000000000023 0.044500000000000012 -1.1102230246251565e-16</Position>
+<Axis>4.6299769573820981e-15 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-5</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-2</Uid>
+</InstancePath>
+<Position>-1.131 8.8817841970012523e-16 0.044499999999999956</Position>
+<Axis>6.106226635438361e-16 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident206">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-10</Uid>
+</InstancePath>
+<Position>0.13299999999999979 -0.044500000000000012 -1.6653345369377348e-16</Position>
+<Axis>3.2361266444347336e-15 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-6</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-2</Uid>
+</InstancePath>
+<Position>-1.131 8.8817841970012523e-16 -0.044499999999999956</Position>
+<Axis>5.9240806704607962e-16 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident207">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-11</Uid>
+</InstancePath>
+<Position>0.13300000000000001 -0.04450000000000004 -1.1102230246251565e-16</Position>
+<Axis>3.2352592826967452e-15 1 -2.2204460492503131e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-8</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-2</Uid>
+</InstancePath>
+<Position>-1.1309999999999996 8.8817841970012523e-16 0.044499999999999984</Position>
+<Axis>5.8286708792820718e-16 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident208">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[1]-1</Uid>
+</InstancePath>
+<Position>0.13300000000000023 0.044499999999999929 -1.1102230246251565e-16</Position>
+<Axis>4.6221707017402025e-15 1 -2.2204460492503131e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>New_Linear_Actuator_Assem-7</Uid>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-2</Uid>
+</InstancePath>
+<Position>-1.131 8.8817841970012523e-16 0.044499999999999929</Position>
+<Axis>5.863365348801608e-16 1.1102230246251565e-16 0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="Matlab_Slewing_bearing_assembly" uid="Matlab_Slewing_bearing_assembly" version="321">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Matlab_Slewing_bearing_assembly.SLDASM" type="SolidWorks Assembly"/>
+<Constraints>
+<UnknownConstraint name="Coincident1">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Changed_Ring-1-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Matlab_Slewing_bearing_assembly</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</UnknownConstraint>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Changed_Ring-1-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Changed_Ring-1-1</Uid>
+</InstancePath>
+<Position>-0.75600000000000001 0.062999999999999945 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Changed_Ring-2-1</Uid>
+</InstancePath>
+<Position>-0.61199999999999977 0.080000000000000002 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</Assembly>
+<Assembly name="New_Linear_Actuator_Assem" uid="New_Linear_Actuator_Assem" version="161">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="New_Linear_Actuator_Assem.SLDASM" type="SolidWorks Assembly"/>
+<Constraints>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-1</Uid>
+</InstancePath>
+<Position>-1.131 -0.044499999999999144 0</Position>
+<Axis>1.3739009929736312e-15 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>NewBox-1</Uid>
+</InstancePath>
+<Position>0.13300000000000001 -2.7929047963226594e-16 0.044499999999999998</Position>
+<Axis>1.0547118733938987e-15 -1.2836953722228372e-16 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>NewBox-1</Uid>
+</InstancePath>
+<Position>-1.0000000000000002 0 2.2204460492503131e-16</Position>
+<Axis>1 0 -2.7061686225238191e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>NewCylinder-1</Uid>
+</InstancePath>
+<Position>-1.036 7.1123662515049091e-16 0</Position>
+<Axis>1.0000000000000002 3.4694469519536142e-16 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>NewCylinder-1</Uid>
+</InstancePath>
+<Position>-1.1309999999999998 5.7939764097625357e-16 -0.044500000000000019</Position>
+<Axis>4.7574791328663935e-16 1.5265566588595902e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>LinearActuator-700mm stroke.STEP.step[13]-2</Uid>
+</InstancePath>
+<Position>-1.1309999999999996 -0.044499999999999158 0</Position>
+<Axis>1.3617579286417936e-15 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</Assembly>
+<Assembly name="Copycopy_mirror^telescope -emb2" uid="Copycopy_mirror^telescope -emb2" version="255">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="telescope -emb2.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="Changed_Ring-1" uid="Changed_Ring-1*:*Default" version="200">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Changed_Ring-1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>105.81559201215292</Mass>
+<CenterOfMass>0 0.03193743450193786 0</CenterOfMass>
+<Inertia>28.353644475691585 56.631183335784172 28.353644475691553 -1.9490499749279411e-15 -3.6582994061701839e-14 -9.2320869964142082e-16</Inertia>
+</MassProperties>
+<GeometryFile name="Changed_Ring-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Changed_Ring-2" uid="Changed_Ring-2*:*Default" version="430">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Changed_Ring-2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>170.36289517007987</Mass>
+<CenterOfMass>0 0.04086702127193681 5.5344220073751264e-16</CenterOfMass>
+<Inertia>37.073424818672137 73.96651633350713 37.073424818672038 6.721232678906504e-15 -3.1051069390941138e-08 7.2175816923997793e-15</Inertia>
+</MassProperties>
+<GeometryFile name="Changed_Ring-2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="LinearActuator-700mm stroke.STEP.step[13]" uid="LinearActuator-700mm stroke.STEP.step[13]*:*Default" version="108">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="LinearActuator-700mm stroke.STEP.step[13].SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.10782157682218386</Mass>
+<CenterOfMass>-1.1310000001641947 -1.5471443973790312e-08 1.4982347417818201e-08</CenterOfMass>
+<Inertia>8.7970069035191639e-05 5.025226171468449e-05 5.0252261054041705e-05 -4.7863427084101494e-13 2.0404408756452457e-11 1.7390046115549068e-11</Inertia>
+</MassProperties>
+<GeometryFile name="LinearActuator-700mm stroke.STEP.step[13]_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="LinearActuator-700mm stroke.STEP.step[1]" uid="LinearActuator-700mm stroke.STEP.step[1]*:*Default" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="LinearActuator-700mm stroke.STEP.step[1].SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.94038714975621207</Mass>
+<CenterOfMass>0.17010194328947495 0 0</CenterOfMass>
+<Inertia>0.001070677038741336 0.00076296528254721468 0.0012372969692425787 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="LinearActuator-700mm stroke.STEP.step[1]_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="NewBox" uid="NewBox*:*Default" version="106">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="NewBox.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.0429058347609388</Mass>
+<CenterOfMass>-0.27971344312097407 -8.0115613949372489e-05 -0.029371659819539323</CenterOfMass>
+<Inertia>0.013769116913580324 0.47376612699686843 0.46652914144948032 0.00023875339282461585 0.028573642587797932 -0.00083477862520427886</Inertia>
+</MassProperties>
+<GeometryFile name="NewBox_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="NewCylinder" uid="NewCylinder*:*Default" version="106">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="NewCylinder.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.66390036535588448</Mass>
+<CenterOfMass>-0.76998669987849699 2.4781887651518241e-14 -8.9775966466014139e-13</CenterOfMass>
+<Inertia>0.00033235466274453545 0.063724484704682297 0.063663355855518008 -8.507769791212868e-15 -1.1683562533377938e-13 2.9342394590945082e-15</Inertia>
+</MassProperties>
+<GeometryFile name="NewCylinder_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="New_Mounting_Bracket" uid="New_Mounting_Bracket*:*Default" version="115">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="New_Mounting_Bracket.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.1832449540216599</Mass>
+<CenterOfMass>-0.0024866061586557389 0.014771508884573669 0.010000000000000002</CenterOfMass>
+<Inertia>0.00095050567376002589 0.0020427647240607318 0.0029143874008859798 0 0 0.00017938817405948164</Inertia>
+</MassProperties>
+<GeometryFile name="New_Mounting_Bracket_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Pinion_gear" uid="Pinion_gear*:*Default" version="255">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Pinion_gear.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>28.121417398422452</Mass>
+<CenterOfMass>0 -0.00034041135277932544 0.057585636354983913</CenterOfMass>
+<Inertia>0.1577574065092901 0.15833410732975664 0.23989024609820989 0.00011884083777486941 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Pinion_gear_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Telescope_Multibody_Part" uid="Telescope_Multibody_Part*:*Default" version="479">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Telescope_Multibody_Part.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>34.749626248875643</Mass>
+<CenterOfMass>-0.0012883684006341745 0.44700708578068571 -0.014674066042313675</CenterOfMass>
+<Inertia>14.065436887033398 1.8964373617080525 14.280901323191911 0.47196410625330187 0.00064987064418436241 0.022508498675939993</Inertia>
+</MassProperties>
+<GeometryFile name="Telescope_Multibody_Part_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="body^Copycopy_mirror_telescope -emb2" uid="body^Copycopy_mirror_telescope -emb2*:*Default" version="139">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Copycopy_mirror_telescope -emb2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.6017311442227182</Mass>
+<CenterOfMass>-2.1988065920418005e-14 -2.2065457141226203e-05 0.015000000000000013</CenterOfMass>
+<Inertia>0.22767222295676462 0.22767906238070665 0.45466102566583788 0 0 2.944286524655948e-15</Inertia>
+</MassProperties>
+<GeometryFile name="body-Copycopy_mirror_telescope -emb2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="mirror segment^Copycopy_mirror_telescope -emb2" uid="mirror segment^Copycopy_mirror_telescope -emb2*:*Default" version="111">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Copycopy_mirror_telescope -emb2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.29271658647914067</Mass>
+<CenterOfMass>0 0 0.010000000000000002</CenterOfMass>
+<Inertia>0.00035329265784774097 0.00035329265784774146 0.00068707087659687291 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="mirror segment-Copycopy_mirror_telescope -emb2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="1" b="1" a="1"/>
+<Diffuse r="0.50196078431372548" g="1" b="1" a="1"/>
+<Specular r="0.25098039215686274" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="rack" uid="rack*:*?? ?????????" version="200">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="rack.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>168.27740777182689</Mass>
+<CenterOfMass>0.0041825095004582721 -1.1791486563617837 -0.04168105820980459</CenterOfMass>
+<Inertia>112.13978423092581 2.8508733416025982 109.8353036202587 6.7272780501465714 -0.05625092769680979 0.1166557722331328</Inertia>
+</MassProperties>
+<GeometryFile name="rack_?? ?????????_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
