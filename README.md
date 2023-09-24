@@ -5,6 +5,7 @@ Design, Testing and Simulation of Astronomical Telescope based on Stewart Platfo
 
 
 
+
 https://github.com/daniyar-s/Stewart_Platform_as_Astronomical_Telescope/assets/124495043/8d18eb5e-7ee9-4bf2-8e8a-7b93a8cd9d0a
 
 
@@ -26,6 +27,17 @@ https://github.com/daniyar-s/Stewart_Platform_as_Astronomical_Telescope/assets/1
 
 
 https://github.com/daniyar-s/Stewart_Platform_as_Astronomical_Telescope/assets/124495043/abbade4a-ef28-4d0d-8f65-4a0fa63f2a5c
+
+
+
+
+https://github.com/daniyar-s/Stewart_Platform_as_Astronomical_Telescope/assets/124495043/ca76d924-d7bf-45d3-917b-ebcc07b405b7
+
+
+
+
+https://github.com/daniyar-s/Stewart_Platform_as_Astronomical_Telescope/assets/124495043/37a82d58-f4ec-4f75-ba0b-9bf28918294c
+
 
 
 The project was created with Rasul Yermagambet, Ruslan Zhagypar under supervision of Christos Spitas.
